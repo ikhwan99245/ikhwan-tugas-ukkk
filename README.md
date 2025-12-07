@@ -41,5 +41,4 @@ MySQL
 
 HTML + CSS + PHP
 
-
-![Diagram Sistem](Image Dec 4, 2025, 03_40_08 PM.png)
+Image Dec 4, 2025, 03_40_08 PM.png
