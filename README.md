@@ -29,7 +29,7 @@ Manajemen data pengguna (masyarakat & petugas)
 
 Manajemen kategori laporan
 
-Monitoring semua laporan dan tanggapan
+Monitoring semua laporan dan tanggapann
 
 Statistik laporan (masuk, diproses, selesai)
 
@@ -40,3 +40,6 @@ PHP Native
 MySQL
 
 HTML + CSS + PHP
+
+
+![Diagram Sistem](flowchart.png)
