@@ -1,23 +1,42 @@
-Judul halaman → “Login” atau “Masuk Akun”
+📢 LAPOR! - Layanan Aspirasi dan Pengaduan Online Rakyat
 
-Form login
+Website ini merupakan sistem pelaporan masyarakat untuk menyampaikan aspirasi, keluhan, dan pengaduan kepada instansi terkait secara online. Sistem ini terinspirasi dari portal resmi LAPOR! milik pemerintah Indonesia.
 
-Input Username / Email
+✨ Fitur Utama
+👥 Untuk Masyarakat (User)
 
-Input Password
+Mengirim laporan baru (judul, isi laporan, lokasi, kategori)
 
-Tombol Login
+Melihat status laporan
 
-Link ke Register → “Belum punya akun?”
+Melihat riwayat laporan
 
-Validasi → pesan error kalau username/password salah
+Menerima balasan atau solusi dari petugas
 
-Opsional:
+🧑‍💼 Untuk Petugas
 
-Checkbox Remember Me
+Melihat daftar laporan sesuai kategori/wilayah tugas
 
-Tombol Lupa Password
+Menindaklanjuti laporan
 
-Logo website
+Mengirim balasan / solusi untuk laporan
 
-Deskripsi singkat
+Mengubah status laporan (diproses / selesai)
+
+🧑‍💼 Untuk Admin
+
+Manajemen data pengguna (masyarakat & petugas)
+
+Manajemen kategori laporan
+
+Monitoring semua laporan dan tanggapan
+
+Statistik laporan (masuk, diproses, selesai)
+
+🛠 Teknologi yang Digunakan
+
+PHP Native
+
+MySQL
+
+HTML + CSS + PHP
