@@ -41,6 +41,9 @@ MySQL
 
 HTML + CSS + PHP
 
-![Diagram Sistem] <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/ab1131d8-b2c4-416c-8236-7f2e60f01ac9" />
+ <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/ab1131d8-b2c4-416c-8236-7f2e60f01ac9" />
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/dd80f5ad-42e1-4507-b2bf-923752e89872" />
+
+<img width="515" height="443" alt="image" src="https://github.com/user-attachments/assets/ab24c311-4e84-441c-963d-a12300115faf" />
+
