@@ -1,4 +1,4 @@
-📢 LAPOR! - Layanan Aspirasi dan Pengaduan Online Rakyat
+Pengaduan Online masyarakat
 
 Website ini merupakan sistem pelaporan masyarakat untuk menyampaikan aspirasi, keluhan, dan pengaduan kepada instansi terkait secara online. Sistem ini terinspirasi dari portal resmi LAPOR! milik pemerintah Indonesia.
 
